@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Coding Skills - Python",
+      "url": "https://www.shl.com/product/python-coding-assessment/",
+      "remote_testing": "Yes",
+      "irt_support": "Yes",
+      "duration": "45 minutes",
+      "test_type": "Technical",
+      "description": "Assesses core Python programming skills for software developers."
+    },
+    {
+      "name": "Verbal Reasoning Test",
+      "url": "https://www.shl.com/product/verbal-reasoning-assessment/",
+      "remote_testing": "Yes",
+      "irt_support": "No",
+      "duration": "30 minutes",
+      "test_type": "Cognitive",
+      "description": "Measures ability to understand written information and logical deduction."
+    }
+  ]
+  
